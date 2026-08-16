@@ -1,0 +1,20 @@
+<meta>
+    <info author="ChatGPT" type="script" name="hud_tab" description="TAB player list" version="1.0.0" />
+    <script src="server/server_time.lua" type="server" />
+    <script src="client/client_utils.lua" type="client" />
+    <script src="client/client_ui.lua" type="client" />
+
+    <file src="files/fonts/gothampro_medium.ttf" />
+    <file src="files/fonts/gothampro_regular.ttf" />
+    <file src="files/img/list.png" />
+    <file src="files/img/logo.png" />
+    <file src="files/img/online.png" />
+    <file src="files/img/player.png" />
+    <file src="files/img/player_afk.png" />
+    <file src="files/img/player_online.png" />
+    <file src="files/img/playtime_bg.png" />
+    <file src="files/img/scroll.png" />
+    <file src="files/img/settings.png" />
+    <file src="files/img/settings_.png" />
+    <file src="files/img/shadow_bg.png" />
+</meta>
